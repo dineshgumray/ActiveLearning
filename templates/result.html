@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AL Model</title>
+</head>
+<body>
+<h2> Predicted label on the basis of current training.</h2>
+{% for table in tables %}
+    {{ table|safe }}
+{% endfor %}
+<!-- <h2> Accuracy Score </h2>
+{{acc}} -->
+</body>
+</html>

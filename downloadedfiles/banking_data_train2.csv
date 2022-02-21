@@ -1,0 +1,10 @@
+Questions,Intents,Predicted_Intents,Predicted_Intents_eng
+How do I use the top up app with my apple watch?,apple_pay_or_google_pay,43,order_physical_card
+How old does one have to be to have an account with the bank?,age_limit,57,top_up_by_card_charge
+How young can I be to open my own account?,age_limit,57,top_up_by_card_charge
+How young can someone be in order to open an account?,age_limit,57,top_up_by_card_charge
+I am only 17. Can I make an account?,age_limit,63,transaction_charged_twice
+I can't top up my account using my American Express with Apple Pay.,apple_pay_or_google_pay,0,activate_my_card
+I don't know how to top up my Google pay.,apple_pay_or_google_pay,6,balance_not_updated_after_cheque_or_cash_deposit
+I got my American Express in Apple Bay but top up is not working,apple_pay_or_google_pay,0,activate_my_card
+"I got my American Express in Apple Pay, why is top up not working?",apple_pay_or_google_pay,38,get_physical_card
